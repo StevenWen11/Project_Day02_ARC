@@ -1,0 +1,39 @@
+.upper{
+    font-size: 13px;
+    color: #383636;
+}
+
+.inti {
+    float: left;
+}
+
+.foto {
+    float: left;
+    padding: 10px;
+    width: 30%;
+}
+
+.return-link {
+    font-size: 15px;
+    width: 30%;
+    margin-left: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background-color: #dfdfdd;
+    color: #656563;
+    /*background: linear-gradient(-45deg, #03AFC2 0%, #eee 100%, #03AFC2 0%);*/
+}
+
+.bukti-kru{
+    text-align: center;
+    max-width: 100%; 
+    height: auto;
+}
